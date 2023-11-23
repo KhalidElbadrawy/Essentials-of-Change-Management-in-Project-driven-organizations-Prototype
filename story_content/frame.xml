@@ -50,7 +50,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1450,170 +1450,170 @@
   </colorschemes>
   <string_tables>
     <string_table name="npnxnanbnsnfns10110000101">
-      <string id="acc_active">active</string>
-      <string id="acc_closed_captions">Closed captions.</string>
-      <string id="acc_definition">definition</string>
-      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
-      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
-      <string id="acc_finish">finish</string>
-      <string id="acc_locked">locked</string>
-      <string id="acc_modern_video_captions">video captions</string>
-      <string id="acc_modern_video_fullscreen">full-screen video</string>
-      <string id="acc_modern_video_mute">mute video</string>
-      <string id="acc_modern_video_pause">pause video</string>
-      <string id="acc_modern_video_pip">picture-in-picture</string>
-      <string id="acc_modern_video_play">play video</string>
-      <string id="acc_modern_video_playback_speed">playback speed</string>
-      <string id="acc_modern_video_settings">video settings</string>
-      <string id="acc_modern_video_transcript">Open</string>
-      <string id="acc_modern_video_volume">video volume</string>
-      <string id="acc_next">next</string>
-      <string id="acc_pause">pause</string>
-      <string id="acc_play">play</string>
-      <string id="acc_playback_speed">playback speed</string>
-      <string id="acc_previous">previous</string>
-      <string id="acc_replay">replay</string>
-      <string id="acc_resources">resources</string>
-      <string id="acc_search_input">search</string>
-      <string id="acc_skipnavigation">Back to top</string>
-      <string id="acc_slide_progress">slide progress</string>
-      <string id="acc_submit">submit</string>
-      <string id="acc_submitall">submit all</string>
-      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
-      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
-      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
-      <string id="acc_video_transcript_list">Transcipt</string>
-      <string id="acc_visited">visited</string>
-      <string id="acc_volume">volume</string>
-      <string id="acc_window_close">Close</string>
-      <string id="acc_window_move">Move window</string>
-      <string id="acc_window_options">Options</string>
-      <string id="acc_window_resize">Resize window</string>
-      <string id="accessible_text">Accessible text</string>
-      <string id="acctext_shortcut">Toggle accessible text</string>
-      <string id="action">Action</string>
-      <string id="alt_key">Alt</string>
-      <string id="background_audio">Background audio</string>
-      <string id="background_audio_shortcut">Toggle background audio</string>
-      <string id="bio">Bio</string>
-      <string id="check_include">Check to include</string>
-      <string id="clear">Clear and return to menu</string>
-      <string id="close">Close</string>
-      <string id="closed_captions">Captions</string>
-      <string id="closed_captions_tip">Toggle captions</string>
-      <string id="closedcaptions_shortcut">Toggle closed captions</string>
-      <string id="continue">Continue</string>
-      <string id="continueresponsive">Continue</string>
-      <string id="ctrl_key">Ctrl</string>
-      <string id="definition">Definition</string>
-      <string id="desktop_start">Start Course</string>
-      <string id="disabled_orientation">Please rotate your device</string>
-      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
-      <string id="enter_key">Enter</string>
-      <string id="exit">Exit</string>
-      <string id="filter">Filter</string>
-      <string id="finish">FINISH</string>
-      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
-      <string id="glossary">Glossary</string>
-      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
-      <string id="mobile_start">Start Course</string>
-      <string id="modern_video_captions_label">Captions</string>
-      <string id="modern_video_captions_off">Off</string>
-      <string id="modern_video_captions_on">On</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="modern_video_playback_settings">Video Playback Settings</string>
-      <string id="modern_video_playback_speed_title">Playback Speed</string>
-      <string id="modern_video_settings_close">close video settings</string>
-      <string id="more_info">More info</string>
-      <string id="mute_shortcut">Mute / unmute</string>
-      <string id="mute_tip">Mute</string>
-      <string id="next">NEXT</string>
-      <string id="next_shortcut">Next slide</string>
-      <string id="next_slide_tip">Next slide</string>
-      <string id="outline">Menu</string>
-      <string id="pause_tip">Pause</string>
-      <string id="play_tip">Play</string>
-      <string id="playback_speed_normal">Normal</string>
-      <string id="playback_speed_title">Playback Speed</string>
-      <string id="playpause_shortcut">Play / pause</string>
-      <string id="prev">PREV</string>
-      <string id="previous_shortcut">Previous slide</string>
-      <string id="previous_slide_tip">Previous slide</string>
-      <string id="progress_hour">hour</string>
-      <string id="progress_hours">hours</string>
-      <string id="progress_minute">minute</string>
-      <string id="progress_minutes">minutes</string>
-      <string id="progress_second">second</string>
-      <string id="progress_seconds">seconds</string>
-      <string id="question_list">Question List</string>
-      <string id="replay_shortcut">Replay slide</string>
-      <string id="replay_tip">Replay</string>
-      <string id="resources">Resources</string>
-      <string id="restart">Restart</string>
-      <string id="resume">Resume</string>
-      <string id="search">Search...</string>
-      <string id="search_in">Search in:</string>
-      <string id="search_results">Search Results</string>
-      <string id="search_toggle">Search</string>
-      <string id="send_an_email">Send an email</string>
-      <string id="settings_tip">Settings</string>
-      <string id="shift_key">Shift</string>
-      <string id="shortcut">Shortcut</string>
-      <string id="shortcuthelp">List keyboard shortcuts</string>
-      <string id="sidebar_toggle">Sidebar Toggle</string>
-      <string id="slide_text_chk">Slide Text</string>
-      <string id="spacebar_key">Space</string>
-      <string id="streaming_video_local_playback_learn_more">Learn More</string>
-      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
-      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
-      <string id="submit">SUBMIT</string>
-      <string id="submit_shortcut">Submit slide</string>
-      <string id="submit_tip">Submit</string>
-      <string id="submitall">SUBMIT ALL</string>
-      <string id="terms">Terms</string>
+      <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
       <string id="three_image_camera_left">camera moved left</string>
       <string id="three_image_camera_right">camera moved right</string>
       <string id="three_image_camera_up">camera moved up</string>
-      <string id="three_image_count_of_total">%count% of %total%</string>
-      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="three_image_interaction_free">free exploration mode</string>
+      <string id="three_image_interaction_guided">guided tour mode</string>
       <string id="three_image_hotspot">hotspot</string>
       <string id="three_image_instructions">Use the w, a, s, and d keys to move around the 360 degree image. Press the tab key to jump to interactive markers and hotspots.</string>
       <string id="three_image_interaction">360 degree image interaction</string>
-      <string id="three_image_interaction_free">free exploration mode</string>
-      <string id="three_image_interaction_guided">guided tour mode</string>
-      <string id="three_image_interaction_next">next</string>
-      <string id="three_image_interaction_prev">previous</string>
-      <string id="three_image_interaction_step">step</string>
-      <string id="three_image_item">item</string>
-      <string id="three_image_items">items</string>
       <string id="three_image_label">label</string>
       <string id="three_image_marker">marker</string>
-      <string id="three_image_of">of</string>
+      <string id="three_image_items">items</string>
+      <string id="three_image_interaction_next">next</string>
       <string id="three_image_pause_audio">pause audio</string>
       <string id="three_image_pause_video">pause video</string>
       <string id="three_image_play_audio">play audio</string>
       <string id="three_image_play_video">play video</string>
-      <string id="three_image_progress_audio">progress</string>
-      <string id="three_image_progress_video">progress</string>
+      <string id="three_image_interaction_prev">previous</string>
+      <string id="three_image_visited">visited</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_count_of_total">%count% of %total%</string>
+      <string id="acc_three_image_step_count_of_total">step %count% of %total%</string>
+      <string id="three_image_item">item</string>
+      <string id="three_image_interaction_step">step</string>
       <string id="three_image_tooltip">tooltip</string>
-      <string id="three_image_total_item">%total% item</string>
       <string id="three_image_total_items">%total% items</string>
+      <string id="three_image_total_item">%total% item</string>
+      <string id="three_image_progress_video">progress</string>
       <string id="three_image_video">video</string>
       <string id="three_image_video_volume">video volume</string>
-      <string id="three_image_visited">visited</string>
+      <string id="acc_three_image_count_of_total_items_visited">%count% of %total% items visited</string>
+      <string id="acc_three_image_count_of_total_item_visited">%count% of %total% item visited</string>
+      <string id="three_image_count_of_total_visited">%count% of %total% visited</string>
+      <string id="accessible_text">Accessible text</string>
+      <string id="background_audio">Background audio</string>
+      <string id="acc_enter_fullscreen">Enter full-screen mode</string>
+      <string id="acc_exit_fullscreen">Exit full-screen mode</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="modern_video_settings_close">close video settings</string>
+      <string id="acc_modern_video_fullscreen">full-screen video</string>
+      <string id="modern_video_playback_settings">Video Playback Settings</string>
+      <string id="modern_video_captions_off">Off</string>
+      <string id="modern_video_captions_on">On</string>
+      <string id="modern_video_captions_label">Captions</string>
+      <string id="acc_modern_video_settings">video settings</string>
+      <string id="acc_modern_video_mute">mute video</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_pause">pause video</string>
+      <string id="acc_modern_video_pip">picture-in-picture</string>
+      <string id="acc_modern_video_play">play video</string>
+      <string id="modern_video_playback_speed_title">Playback Speed</string>
+      <string id="acc_modern_video_captions">video captions</string>
+      <string id="acc_modern_video_playback_speed">playback speed</string>
+      <string id="acc_modern_video_volume">video volume</string>
+      <string id="acc_active">active</string>
+      <string id="alt_key">Alt</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions.</string>
+      <string id="closed_captions_tip">Toggle captions</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="playback_speed_title">Playback Speed</string>
+      <string id="playback_speed_normal">Normal</string>
+      <string id="acc_playback_speed">playback speed</string>
+      <string id="ctrl_key">Ctrl</string>
+      <string id="enable_keyboardshortcuts">Enable keyboard shortcuts</string>
+      <string id="enter_key">Enter</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="progress_hour">hour</string>
+      <string id="progress_hours">hours</string>
+      <string id="action">Action</string>
+      <string id="keyboardshortcuts">Keyboard Shortcuts</string>
+      <string id="shortcuthelp">List keyboard shortcuts</string>
+      <string id="mute_shortcut">Mute / unmute</string>
+      <string id="next_shortcut">Next slide</string>
+      <string id="playpause_shortcut">Play / pause</string>
+      <string id="previous_shortcut">Previous slide</string>
+      <string id="replay_shortcut">Replay slide</string>
+      <string id="shortcut">Shortcut</string>
+      <string id="submit_shortcut">Submit slide</string>
+      <string id="acctext_shortcut">Toggle accessible text</string>
+      <string id="background_audio_shortcut">Toggle background audio</string>
+      <string id="closedcaptions_shortcut">Toggle closed captions</string>
+      <string id="fullscreen_shortcut">Toggle full-screen mode</string>
       <string id="togglezoom">Toggle zoom to fit</string>
-      <string id="transcript">Notes</string>
-      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="progress_minute">minute</string>
+      <string id="progress_minutes">minutes</string>
+      <string id="mute_tip">Mute</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="next_slide_tip">Next slide</string>
       <string id="transcript_chk">Notes</string>
-      <string id="transcript_show_timestamp">Show timestamps</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="pause_tip">Pause</string>
+      <string id="acc_play">play</string>
+      <string id="play_tip">Play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="previous_slide_tip">Previous slide</string>
+      <string id="question_list">Question List</string>
+      <string id="replay_tip">Replay</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="acc_locked">locked</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_toggle">Search</string>
+      <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
+      <string id="desktop_start">Start Course</string>
+      <string id="mobile_start">Start Course</string>
+      <string id="acc_visited">visited</string>
+      <string id="search">Search...</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="progress_second">second</string>
+      <string id="progress_seconds">seconds</string>
+      <string id="settings_tip">Settings</string>
+      <string id="shift_key">Shift</string>
+      <string id="acc_skipnavigation">Back to top</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="spacebar_key">Space</string>
+      <string id="streaming_video_local_playback_learn_more">Learn More</string>
+      <string id="streaming_video_local_playback_republish">To watch this video, use the preview feature in Storyline 360, upload your published output to a server, publish to Review 360, or switch to static video quality.</string>
+      <string id="streaming_video_local_playback_title">Streaming video is unavailable for local playback.</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="submit_tip">Submit</string>
       <string id="unmute_tip">Unmute</string>
+      <string id="transcript_auto_scroll">Autoscroll</string>
+      <string id="acc_window_close">Close</string>
+      <string id="acc_video_transcript_list">Transcipt</string>
+      <string id="acc_window_move">Move window</string>
+      <string id="acc_modern_video_transcript">Open</string>
+      <string id="acc_window_resize">Resize window</string>
       <string id="video_transcript_resume_autoscroll">Resume autoscroll</string>
       <string id="video_transcript_select_track">Select track</string>
+      <string id="transcript_show_timestamp">Show timestamps</string>
       <string id="video_transcript_title">Transcripts</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
+      <string id="acc_window_options">Options</string>
+      <string id="acc_volume">volume</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1628,119 +1628,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.6PgYV0mc9d0" displaytext="Introduction " expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6PgYV0mc9d0.63R89wDACCn" displaytext="Start" expand="false" type="slide" />
-            <slidelink slideid="_player.6PgYV0mc9d0.5r8NkLAQMnw" displaytext="Particpant Name" expand="false" type="slide" />
-            <slidelink slideid="_player.6PgYV0mc9d0.6HfCKtx6AUE" displaytext="Course Promo" expand="false" type="slide" />
-            <slidelink slideid="_player.6PgYV0mc9d0.6arimf7Anlv" displaytext="Learning Objective " expand="false" type="slide" />
-            <slidelink slideid="_player.6PgYV0mc9d0.6JzBU90oUQN" displaytext="Course Agenda" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5pnCEF2Xto3" displaytext="Understanding the Change, its Drivers and Impact" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5pnCEF2Xto3.5XBapYgd2pf" displaytext="F&amp;amp;M 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.68AxPAkPjEj" displaytext="F&amp;amp;M 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6MeIMLWlnM0" displaytext="F&amp;amp;M 3" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.61Tb7wL8CMp" displaytext="F&amp;amp;M 4" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5qL43yoimF9" displaytext="F&amp;amp;M 5" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6JsuZFQeL5z" displaytext="Knowladge Check" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5WbSRkV0mVZ" displaytext="Draw from Change Managemnet SECTION 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6RLe6iYIzEr" displaytext="Section Recap" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6hzk2Wx6Zdb" displaytext="Section Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6DWYzrsJI0Q" displaytext="What is the change?" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6b9RJiURv6s" displaytext="Survey" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5yZlTHRqHhu" displaytext="Why we are discussing change" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5yFScWx8HpN" displaytext="4 Types Org. Change" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.66n7gFGAR2L" displaytext="Org change survey" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6PphDKW09Vz" displaytext="Channge driving forces " expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6TWM3BdXG8C" displaytext="Change Impact" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6poMTEVndXT" displaytext="Change Impact Word cloud" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6pHvJqQ8fVl" displaytext="Change Impact vidoe" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6aaubeT5enz" displaytext="Facts &amp;amp; Myths" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6J9vov0T48A" displaytext="Change Management Difintion" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6AdpvoFyNQ1" displaytext="Can&amp;apos;t we control the chnage?" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5UyiPvEnVJv" displaytext="Change Management Difintion" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5XQN8c76pLe" displaytext="Controlling the chnage " expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5oS7qJB4FL7" displaytext="The sole purpose of Change Management" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5huZpB7kUXM" displaytext="Integration Of Project &amp;amp; Change meangement" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6BUgrZDFETI" displaytext="PM - The technical side " expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5vjMKcnMFJd" displaytext="PM - The technical side " expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.6AZoxH6SK4o" displaytext="CM- the people side" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5dPhJ5aBxvb" displaytext="The Integration symphony" expand="false" type="slide" />
-            <slidelink slideid="_player.5pnCEF2Xto3.5ZAkvQIELxB" displaytext="Value of chnage management" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.6i7fBSvu0hR" displaytext="Navigating Change: The Prosci Approach to Comprehensive Change Management" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.6i7fBSvu0hR.5cOkpkC1LWP" displaytext="Prosci CM process " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5n1iu8J3tSF" displaytext="The PCT Model " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6NbpGN1Jotc" displaytext="Organizational 3 Phases of Change" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5wtZDHzOSRh" displaytext="Organizational 3 Phases of Change" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6ggJ4tZ2MOo" displaytext="ADKAR Model" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5aj1zlYxyxJ" displaytext="ADKAR model" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6iWmeZHAjiF" displaytext="ADKAR Model Steps" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6XNxU9pHKBM" displaytext="Why using ADKAR" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5oUQJciBikA" displaytext="ADKAR Scenario" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5kW1RjKk02S" displaytext="Back to the PCT " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5ws2Xm9STYP" displaytext="The ABC&amp;apos;s of Sponsorship" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5XcsWVCdITu" displaytext="Separate in theory, Integrated in practice" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6ksJNZL6sfA" displaytext="Integration value" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6J5lEoOUwLi" displaytext="Integration value : Share your thoughts " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6nJE6HXlWkq" displaytext="Integration value contd" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6S6ZVu24gD1" displaytext="5 Dimensions of integration" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6LootQE40zp" displaytext="People Dimension" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6SD9CHIpHOv" displaytext="Action steps for integrating People " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6Hmy8pQpA5G" displaytext="Dimension 2: Process" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5kLNT2Y9kMy" displaytext="Action steps for integrating Process " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6M9esMDaQCT" displaytext="3rd dimension : Tools" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6SYIeEHkLpi" displaytext="Action steps to for integrating Tools" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5zVxGKWhBIx" displaytext="4th Dimension : " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6reIEpdnxP2" displaytext="Action steps to for integrating Tools" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5pGR5IXJidO" displaytext="4th Dimension : " expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6E34Jntb9Lh" displaytext="Action steps to for integrating Tools" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5hrD4bBOBrH" displaytext="Knowladge Check" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5vvPpNjrLtK" displaytext="Draw from Change Managemnet  SECTION 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.5uMdzdnVBQ9" displaytext="Section Recap" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6p9Lbx4k0Jg" displaytext="Section Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.67z81u6peO6" displaytext="Levels impacted by Change Managment" expand="false" type="slide" />
-            <slidelink slideid="_player.6i7fBSvu0hR.6SpNsHEguTc" displaytext="Integration Of Project &amp;amp; Change meangement" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.60LIb8sEJaE" displaytext="Prosic 3 Phases Org change case study." expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.60LIb8sEJaE.6TKwOzZEjL0" displaytext="Context and background" expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.5X6XTv7lOjN" displaytext="Before you start." expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.63RBsHEHNEv" displaytext="Context and background" expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.5lGfLIgOenw" displaytext="Prepare Approach" expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.5qOc9GBYdFj" displaytext="Manage Change" expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.5uaxNsy6S7R" displaytext="Sustain Outcomes" expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.6N2ysMsy6to" displaytext="Before you start." expand="false" type="slide" />
-            <slidelink slideid="_player.60LIb8sEJaE.61vYRzUTtXG" displaytext="Results" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5kFA0182RuZ" displaytext="ADKAR Scenario" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5kFA0182RuZ.6TPFPjyqDuN" displaytext="ADKAR Scenario1" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.6qZV9BjIbgg" displaytext="Instruction " expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.5gD21uYLeAp" displaytext="Challenge no1" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.6deT1IAGH8c" displaytext="Challenge no2" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.6Es4tCmVmm4" displaytext="Challenge no 3" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.5dJB0cPx6rC" displaytext="Challenge no 4" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.6gxsTVhe76W" displaytext="Challenge no. 5" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.6AoCKAEhTti" displaytext="Scenario Recap" expand="false" type="slide" />
-            <slidelink slideid="_player.5kFA0182RuZ.6Tkla205FWB" displaytext="Scenario Context" expand="false" type="slide" />
-          </links>
-        </slidelink>
-        <slidelink slideid="_player.5jG2BkPLqja" displaytext="Final Quiz" expand="true" type="slide">
-          <links>
-            <slidelink slideid="_player.5jG2BkPLqja.631zBUYcZm3" displaytext="Final Quiz" expand="false" type="slide" />
-            <slidelink slideid="_player.5jG2BkPLqja.6OUciMgnUG4" displaytext="Draw from Change Managemnet SECTION 1" expand="false" type="slide" />
-            <slidelink slideid="_player.5jG2BkPLqja.5VBYJWbjLrH" displaytext="Draw from Change Managemnet  SECTION 2" expand="false" type="slide" />
-            <slidelink slideid="_player.5jG2BkPLqja.6qSVMhm7hlB" displaytext="Certname" expand="false" type="slide" />
-            <slidelink slideid="_player.5jG2BkPLqja.5tn3qwmzgd0" displaytext="Certificate Of Attend" expand="false" type="slide" />
-          </links>
-        </slidelink>
+        <slidelink slideid="" displaytext="Introduction " expand="true" type="slide" />
+        <slidelink slideid="" displaytext="Understanding the Change, its Drivers and Impact" expand="true" type="slide" />
+        <slidelink slideid="" displaytext="Navigating Change: The Prosci Approach to Comprehensive Change Management" expand="true" type="slide" />
       </links>
     </outline>
   </nav_data>
